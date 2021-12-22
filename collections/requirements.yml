@@ -1,0 +1,5 @@
+---
+collections:
+
+- name: cisco.ios
+  version: 2.6.0
